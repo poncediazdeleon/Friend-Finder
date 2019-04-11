@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "Friend-Finder",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
